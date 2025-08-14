@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #fd6db2;
+  --color-secondary: #cbcfe0;
+  --breakpoint-hate: 530px;
+}
